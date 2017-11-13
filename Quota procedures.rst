@@ -45,16 +45,19 @@ Default quota update
 
 Tip: if you processed your quota, you can ask manager for additional articles. It is up to manager (and depending on availability of the articles) whether to provide you with additional articles or not.
 
-Note: if you experience any issues or have questions regarding the process, please contact your manager
+.. NOTE::
+	
+	If you experience any issues or have questions regarding the process, please contact your manager.
 
 
 Ad-hoc quota update (when it is different from your default quota)
 ------------------------------------------------------------------
 
-Important: quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone). 
-For example:
-- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
-- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
+.. IMPORTANT::
+	Quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone). 
+	For example:
+	- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
+	- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
 
 1. Navigate to "Quota" tab in the Production spreadsheet <link here>
 
@@ -64,8 +67,9 @@ For example:
 
 4. Type in updated quota value to the cell which lies in the row of corresponding date and in the column under your name.
 
-Note: if you experience any issues or have questions regarding the process, please contact your manager
-
+.. NOTE::
+	
+	If you experience any issues or have questions regarding the process, please contact your manager.
 
 Instructions for manager
 ========================
