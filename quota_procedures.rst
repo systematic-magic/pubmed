@@ -43,7 +43,9 @@ Default quota update
 
 3. Type in the value for your default quota in the row "Default quota" below your name
 
-Tip: if you processed your quota, you can ask manager for additional articles. It is up to manager (and depending on availability of the articles) whether to provide you with additional articles or not.
+.. NOTE::
+	
+	If you processed your quota, you can ask manager for additional articles. It is up to manager (and depending on availability of the articles) whether to provide you with additional articles or not.
 
 .. NOTE::
 	
@@ -54,8 +56,10 @@ Ad-hoc quota update (when it is different from your default quota)
 ------------------------------------------------------------------
 
 .. IMPORTANT::
-	Quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone). 
-	For example:
+	Quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone). |br|
+	
+	For example: |br|
+	
 	- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
 	- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
 
@@ -82,11 +86,9 @@ The steps below should be followed every time manager assigns articles to team m
 
 2. Go to "Assigned Articles Dashboard" <link here>
 
-3. Check the number of unprocessed (not reviewed) articles for the team member. 
-(If there is no quota specified, please see "Exception cases" section below.)
+3. Check the number of unprocessed (not reviewed) articles for the team member. (If there is no quota specified, please see "Exception cases" section below.)
 
-4. If the number of unprocessed articles is smaller than team member's quota, then you can assign more articles to meet the quota.
-(I.e. if team member has 5 unprocessed articles and his/her quota equals 20, then you can assign extra 15 articles)
+4. If the number of unprocessed articles is smaller than team member's quota, then you can assign more articles to meet the quota.(I.e. if team member has 5 unprocessed articles and his/her quota equals 20, then you can assign extra 15 articles)
 
 5. If the number of unprocessed articles equals quota, then no articles can be assigned to team member.
 
