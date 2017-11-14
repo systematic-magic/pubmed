@@ -2,6 +2,11 @@
 Contents
 =========
 
+.. toctree::
+   :maxdepth: 2
+
+   Action plan <action_plan>
+
 
 .. toctree::
    :maxdepth: 2
