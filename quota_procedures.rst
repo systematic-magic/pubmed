@@ -14,6 +14,10 @@ Team member - person who reviews articles |br|
 Manager - Bharathii |br|
 Next Level Manager - Zoya
 
+Deadlines
+=========
+Up to date quota information should be available on a day before assignment and no later than 23:00 ET (Eastern Time Zone)
+
 
 Instructions for team members
 ==============================
@@ -31,7 +35,7 @@ No more updates by email is required. Updates should be done in the spreadsheet.
 All team members need to fill out "Default quota" cell below his/her name. Value of "Default quota" will be automatically propagated to cells below, which hold values for each week of a year. 
 
 <screenshot here>
-.. image:: /_static/???????????????
+.. image:: /_static/quota_pic1_overview.png
    :alt: Default Quota
 
 Once "Default quota" is filled out, team members just need to update the quota value when it is different (from default) for corresponding week(s). So updates are required on ad-hoc basis only.
@@ -120,5 +124,5 @@ Instructions for manager: Exception cases
    <br />
 
 
-.. _Production spreadsheet: http://www.oncotarget.com
-.. _Assigned Articles Dashboard: http://www.oncotarget.com
+.. _Production spreadsheet: https://docs.google.com/spreadsheets/d/1WHDcSnzuyskCAdxkwtjs4gOAI6mPOM_9D2SB-xVYzS8/edit?ts=58719054#gid=996860415
+.. _Assigned Articles Dashboard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
