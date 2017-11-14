@@ -23,33 +23,38 @@ Every team member is responsible for providing up to date information about his/
 
 For example: |br|
 - For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
-- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
+- For Thursday assignment information about quota should be provided no later than Wednesday 23:00 ET (Eastern Time Zone)
 
-To simplify the process and to remove the burden of constant updates we introduce quota table in Production spreadsheet.
+To simplify the process and to remove the burden of constant updates we introduce quota table in `Production spreadsheet`_.
 No more updates by email is required. Updates should be done in the spreadsheet.
 
 All team members need to fill out "Default quota" cell below his/her name. Value of "Default quota" will be automatically propagated to cells below, which hold values for each week of a year. 
 
 <screenshot here>
+.. image:: /_static/???????????????
+   :alt: Default Quota
 
 Once "Default quota" is filled out, team members just need to update the quota value when it is different (from default) for corresponding week(s). So updates are required on ad-hoc basis only.
 
 
 Default quota update
 --------------------
-1. Navigate to "Quota" tab in the Production spreadsheet <link here>
+
+If you experience any iussues or have questions regarding the process, please check "Exception cases" section below.
+
+1. Navigate to "Quota" tab in the `Production spreadsheet`_
 
 2. Find your name at the top of the page
 
-3. Type in the value for your default quota in the row "Default quota" below your name
+3. Type in the value for your default quota in the row "Default quota" below your name. If you are being assigned articles 2 times a week (for example on Monday and Wednesday) and your default quota is not the same for both assignment dates, then specify 2 quota values separated by slash (/).
+
+For example: |br|
+Your quota for Monday assignments is 20 and for Thursday ones is 25. You should type in the following value - "20/25" to your quota cell.
+
 
 .. TIP::
 	
 	If you processed your quota, you can ask manager for additional articles. It is up to manager (and depending on availability of the articles) whether to provide you with additional articles or not.
-
-.. NOTE::
-	
-	If you experience any issues or have questions regarding the process, please contact your manager.
 
 
 Ad-hoc quota update (when it is different from your default quota)
@@ -62,17 +67,26 @@ Ad-hoc quota update (when it is different from your default quota)
 	- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
 	- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
 
-1. Navigate to "Quota" tab in the Production spreadsheet <link here>
+If you experience any iussues or have questions regarding the process, please check "Exception cases" section below.
+
+1. Navigate to "Quota" tab in the `Production spreadsheet`_
 
 2. Find the week you would like to update your quota for (utmost right hand side column)
 
 3. Find column with your name at the top
 
-4. Type in updated quota value to the cell which lies in the row of corresponding date and in the column under your name.
+4. Type in updated quota value to the cell which lies in the row of corresponding date and in the column under your name. If you are being assigned articles 2 times a week (for example on Monday and Wednesday) and your default quota is not the same for both assignment dates, then specify 2 quota values separated by slash (/).
 
-.. NOTE::
-	
-	If you experience any issues or have questions regarding the process, please contact your manager.
+For example: |br|
+Your quota for Monday assignments is 20 and for Thursday ones is 25. You should type in the following value - "20/25" to your quota cell.
+
+
+
+Instructions for team members: Exception cases
+----------------------------------------------
+
+1. Please address all your questions and/or issues to your manager.
+
 
 Instructions for manager
 ========================
@@ -81,9 +95,9 @@ Important: Quota checking is important part of article assignment process. It is
 
 The steps below should be followed every time manager assigns articles to team members.
 
-1. Navigate to "Quota" tab in the Production spreadsheet <link here> and check the quota for team member.
+1. Navigate to "Quota" tab in the `Production spreadsheet`_ and check the quota for team member.
 
-2. Go to "Assigned Articles Dashboard" <link here>
+2. Go to "`Assigned Articles Dashboard`_"
 
 3. Check the number of unprocessed (not reviewed) articles for the team member. (If there is no quota specified, please see "Exception cases" section below.)
 
@@ -104,3 +118,7 @@ Instructions for manager: Exception cases
 .. |br| raw:: html
 
    <br />
+
+
+.. _Production spreadsheet: http://www.oncotarget.com
+.. _Assigned Articles Dashboard: http://www.oncotarget.com
