@@ -51,7 +51,7 @@ Below you will find most common reasons and corresponding manager actions:
 
 *Author did not respond after all reminders have been sent*
 
-1. Put the paper on hold by putting capital letter "H" in column "D" of the corresponding pii in the Production spreadsheet. Add a note to the column "...." ("..") that "...."
+1. Put the paper on hold by putting capital letter "H" in column "D" ("Sub site note? * = papers with questions") of the corresponding pii in the Production spreadsheet.
 2. If in doubt contact next level manager.
 
 *Author did not respond and team member has followed up author in accordance to procedure*
@@ -71,5 +71,5 @@ Those articles which have been put on-hold need to be monitored once a month (pr
 1. Go to the "Non-responding authors" dahsboard
 2. Go through each pii and check whether there is an update from author in Production mailbox.
 3. If you find auhtor's reply on team member's enquiry, inform team member about that. Team member should resume reviewing the article from that point.
-4. Delete "hold" flag ("H" in column "D") from Production spreadsheet.
+4. Delete "hold" flag (capital letter "H" in column "D") from Production spreadsheet.
 
