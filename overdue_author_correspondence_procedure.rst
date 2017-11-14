@@ -9,6 +9,25 @@ It is important for team members to adhere to the procedures outlined below and 
 
 It is important task of a manager to monitor and resolve situations when article is "stuck" at certain point.
 
+
+Roles
+=====
+
+Team member - person who reviews articles |br|
+Manager - Christopher Fick |br|
+Next Level Manager - Zoya
+
+Deadlines
+=========
+
+Team member - max 3 reminders every 4'th day and contact manager 4 days after 3'd reminder
+
+Manager:
+
+- 2 times a week check authors which are overdure more than 20 days
+- check for replies from "on-hold" authors once a month (preferably last day of the month)
+
+
 Instructions for team members
 =============================
 Occasionally team members need to request author's input to proceed with the review. Usually authors reply on such enquiries within 2-3 days. However, in situations when this is not the case, team member needs to follow the procedure below to remind authors about his/her equiry.
@@ -17,9 +36,7 @@ Occasionally team members need to request author's input to proceed with the rev
 
 2. Send 2'nd reminder to corresponding author after 4 days, since 1's reminder
 
-3. Contact your manager to get email addresses of all authors of the article
-
-4. Send 3'd (last) reminder to all authors
+3. Contact your manager to get email addresses of all authors of the article and send 3'd (last) reminder to all authors after 4 days, since 2'nd reminder.
 
 5. If you do not get a reply after 4 days, contact your manager and agree that you put this aricle on hold. Once agreed, your manager should put the paper on-hold. From that point manager is responsible for follow up of the article.
 
@@ -29,9 +46,9 @@ Occasionally team members need to request author's input to proceed with the rev
 Instructions for manager
 ========================
 
-1. Go to Overdue Author Correspondence dashboard.
+1. Go to "`Overdue Author Correspondence Dashboard`_".
 
-2. Check "Days since Assignment Date" column for the artickes which exceed 15 days.
+2. Check "Days since Assignment Date" column for the artickes which exceed 20 days.
 
 3. Go through each of the overdue articles with team member and find out the reason of the delay. Manager is responsible for taking actions to resolve / help resolve the issue.
 
@@ -68,8 +85,13 @@ Instructions for manager: non-responding authors
 
 Those articles which have been put on-hold need to be monitored once a month (preferably last day of the month)
 
-1. Go to the "Non-responding authors" dahsboard
+1. Go to the "`Non responding Authors Dashbioard`_.
 2. Go through each pii and check whether there is an update from author in Production mailbox.
 3. If you find auhtor's reply on team member's enquiry, inform team member about that. Team member should resume reviewing the article from that point.
 4. Delete "hold" flag (capital letter "H" in column "D") from Production spreadsheet.
 
+
+
+.. _Overdue Author Correspondence Dashboard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
+
+.. _Non responding Authors Dashbioard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
