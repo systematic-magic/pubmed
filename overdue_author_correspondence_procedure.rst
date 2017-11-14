@@ -21,8 +21,7 @@ Occasionally team members need to request author's input to proceed with the rev
 
 4. Send 3'd (last) reminder to all authors
 
-5. If you do not get a reply after 4 days, contact your manager and agree that you put this aricle on hold.
-When agreed, your manager is responsible to put the paper on-hold. From that point manager is responsible for follow up of the article.
+5. If you do not get a reply after 4 days, contact your manager and agree that you put this aricle on hold. When agreed, your manager is responsible to put the paper on-hold. From that point manager is responsible for follow up of the article.
 
 6. When manager contacts team member with an update from author (for the article which has been put on-hold), team member needs to resume review of the article. From that point team member is responsible for communication with author. If further follow up is required, then it should be done in accordance with this procedure (i.e. new 1'st, 2'nd and 3'd reminders if required).
 
@@ -39,32 +38,28 @@ Instructions for manager
 Manager actions to a great extent depend on the reason of the delay.
 Below you will find most common reasons and corresponding manager actions:
 
-Auhtor responded, but team member has not processed that response
------------------------------------------------------------------
+*Auhtor responded, but team member has not processed that response*
 
 1. Instruct team member to action author's response within 1 day
 2. Check that response has been actioned
 
 
-Author did not respond and team member failed to send reminder in time
------------------------------------------------------------------------
+*Author did not respond and team member failed to send reminder in time*
 
 1. Instruct team member to send a reminder to author within 1 day
 2. Check that team member has sent a reminder
 
-Author did not respond after all reminders have been sent
----------------------------------------------------------
+*Author did not respond after all reminders have been sent*
 
 1. Put the paper on hold by putting capital letter "H" in column "D" of the corresponding pii in the Production spreadsheet. Add a note to the column "...." ("..") that "...."
 2. If in doubt contact next level manager.
 
-Author did not respond and team member has followed up author in accordance to procedure
------------------------------------------------------------------------------------------
+*Author did not respond and team member has followed up author in accordance to procedure*
 
 1. No action is necessary
 
-All other cases
----------------
+*All other cases*
+
 1. Discuss the issue with next level manager.
 
 

@@ -24,13 +24,13 @@ I. Operations
 
 9. Assign dedicated person to go through each PII, figure out the reason for the delay and resolve it.
 
-8. Compile a guideline/procedure/manual decribing how to check implemented corrections.
+10. Compile a guideline/procedure/manual decribing how to check implemented corrections.
 
-9. Assign a dedicated person to go through each PII having corrections implemented and process them on a daily basis. Use dashboard as a worklist.
+11. Assign a dedicated person to go through each PII having corrections implemented and process them on a daily basis. Use dashboard as a worklist.
 
-10. Compile a procedure describing how to follow up overdue PIIs for diacriTech (DC) (deadlines, reminders, use of dashboard, escalation path)
+12. Compile a procedure describing how to follow up overdue PIIs for diacriTech (DC) (deadlines, reminders, use of dashboard, escalation path)
 
-11. Teach Bharathii the procedure, so that it is a part of the workfolow.
+13. Teach Bharathii the procedure, so that it is a part of the workfolow.
 
 
 II. Standardisation
