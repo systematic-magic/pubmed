@@ -17,13 +17,13 @@ Occasionally team members need to request author's input to proceed with the rev
 
 2. Send 2'nd reminder to corresponding author after 4 days, since 1's reminder
 
-3. Contact Christopher Fick to get the emails of all authors of the article
+3. Contact your manager to get email addresses of all authors of the article
 
 4. Send 3'd (last) reminder to all authors
 
-5. If you do not get a reply after 4 days, contact your manager and agree that you put this aricle on hold. When agreed, your manager is responsible to put the paper on-hold. From that point manager is responsible for follow up of the article.
+5. If you do not get a reply after 4 days, contact your manager and agree that you put this aricle on hold. Once agreed, your manager should put the paper on-hold. From that point manager is responsible for follow up of the article.
 
-6. When manager contacts team member with an update from author (for the article which has been put on-hold), team member needs to resume review of the article. From that point team member is responsible for communication with author. If further follow up is required, then it should be done in accordance with this procedure (i.e. new 1'st, 2'nd and 3'd reminders if required).
+6. If manager gets a reply from author (for "on-hold article"), manager needs to relay author's reply to team member. Team member needs to resume review of the article. From that point team member is responsible for communication with author. If further follow up is required, then it should be done in accordance with this procedure (i.e. new 1'st, 2'nd and 3'd reminders, if required).
 
 
 Instructions for manager
