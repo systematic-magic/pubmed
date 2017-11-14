@@ -64,7 +64,8 @@ Ad-hoc quota update (when it is different from your default quota)
 ------------------------------------------------------------------
 
 .. IMPORTANT::
-	Quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone). |br|
+	Quota updates should be done in advance, i.e. on a day before article assignment and not later than 23:00 ET (Eastern Time Zone).
+	
 	For example: |br|
 	- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone) |br|
 	- For Thursday assignment information about quota should be provide no later than Wednesday 23:00 ET (Eastern Time Zone)
