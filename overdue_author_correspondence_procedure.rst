@@ -21,7 +21,6 @@ Deadlines
 =========
 
 Team member - max 3 reminders every 4'th day and contact manager 4 days after 3'd reminder
-
 Manager:
 
 - 2 times a week check authors which are overdure more than 20 days
@@ -95,3 +94,8 @@ Those articles which have been put on-hold need to be monitored once a month (pr
 .. _Overdue Author Correspondence Dashboard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
 
 .. _Non responding Authors Dashbioard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
+
+
+.. |br| raw:: html
+
+   <br />
