@@ -38,27 +38,27 @@ Instructions for manager
 Manager actions to a great extent depend on the reason of the delay.
 Below you will find most common reasons and corresponding manager actions:
 
-*Auhtor responded, but team member has not processed that response*
+**Auhtor responded, but team member has not processed that response**
 
 1. Instruct team member to action author's response within 1 day
 2. Check that response has been actioned
 
 
-*Author did not respond and team member failed to send reminder in time*
+**Author did not respond and team member failed to send reminder in time**
 
 1. Instruct team member to send a reminder to author within 1 day
 2. Check that team member has sent a reminder
 
-*Author did not respond after all reminders have been sent*
+**Author did not respond after all reminders have been sent**
 
 1. Put the paper on hold by putting capital letter "H" in column "D" ("Sub site note? * = papers with questions") of the corresponding pii in the Production spreadsheet.
 2. If in doubt contact next level manager.
 
-*Author did not respond and team member has followed up author in accordance to procedure*
+**Author did not respond and team member has followed up author in accordance to procedure**
 
 1. No action is necessary
 
-*All other cases*
+**All other cases**
 
 1. Discuss the issue with next level manager.
 
