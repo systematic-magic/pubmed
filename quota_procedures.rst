@@ -26,7 +26,7 @@ Every team member is responsible for providing up to date information about his/
 "In advance" means on a day before assignment and no later than 23:00 ET (Eastern Time Zone)
 
 For example: |br|
-- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone)
+- For Monday assignments information about quota should be provided no later than Sunday 23:00 ET (Eastern Time Zone) |br|
 - For Thursday assignment information about quota should be provided no later than Wednesday 23:00 ET (Eastern Time Zone)
 
 To simplify the process and to remove the burden of constant updates we introduce quota table in `Production spreadsheet`_.
@@ -34,7 +34,6 @@ No more updates by email is required. Updates should be done in the spreadsheet.
 
 All team members need to fill out "Default quota" cell below his/her name. Value of "Default quota" will be automatically propagated to cells below, which hold values for each week of a year. 
 
-<screenshot here>
 .. image:: /_static/quota_pic1_overview.png
    :alt: Default Quota
 
