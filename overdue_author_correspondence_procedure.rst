@@ -21,7 +21,7 @@ Deadlines
 =========
 
 Team member - max 3 reminders every 4'th day and contact manager 4 days after 3'd reminder
-Manager:
+Manager: |br|
 - 2 times a week check authors which are overdure more than 20 days
 - check for replies from "on-hold" authors once a month (preferably last day of the month)
 
