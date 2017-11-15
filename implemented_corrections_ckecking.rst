@@ -13,8 +13,6 @@ It is important task of a manager to monitor and resolve situations when article
 
 Instructions for team member
 ============================
-   
-"""
 
 The tasks of the team member are composed of 2 major steps: 
 
@@ -32,12 +30,10 @@ a. :ref:`there was no communication with author<no_communication_with_author>` |
 b. :ref:`there was communication with author and author have not replied yet<communication_but_not_replied_yet>` |br|
 c. :ref:`there was comminication with author and author has already replied<communication_and_reply>`
 
-   
-***
 
 .. _no_communication_with_author:
 a. There was no communication with author
-"""""""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "N" in `Author response required?` column.
 
@@ -63,6 +59,7 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 
 .. _communication_and_reply:
 c. there was comminication with author and author has already replied.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
 
