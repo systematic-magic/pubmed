@@ -98,7 +98,7 @@ c. There was comminication with author and author has already replied.
 
 - Send reply to the Production team with the list of corrections which have not been implemented.
 - Go to Production Spreadsheet and update column "Date correx last reviewed" with the date when you checked the pii.
-- There are 2 columns named "Corrections approved? (Y or N)", put "N" in the empty column and add note "missed corrx + add current date" to the **rightmost** "Approval Notes" column . If both `Corrections approved? (Y or N)` contain values (i.e. "N") then just append **rightmost** `Approval Notes` column with "missed corrx + add current date"
+- There are 2 columns named "Corrections approved? (Y or N)", put "N" in the empty column and add note "missed corrx + add current date" to the **rightmost** "Approval Notes" column . If both `Corrections approved? (Y or N)` contain values (i.e. "N") then just append **rightmost** "Approval Notes" column with "missed corrx + add current date"
 
 .. _Implemented Corrections Dashboard: https://docs.google.com/spreadsheets/d/1Wqrf_ysPZFPs4p5B5d-djR5zbaZjoiimxOCMCY1LrHI/edit#gid=199064208
 
