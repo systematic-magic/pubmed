@@ -45,6 +45,7 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 
 .. _communication_but_not_replied_yet: "text"
 b. There was communication with author and author have not replied yet.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
 
