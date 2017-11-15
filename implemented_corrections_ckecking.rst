@@ -14,10 +14,7 @@ It is important task of a manager to monitor and resolve situations when article
 Instructions for team member
 ============================
 
-The tasks of the team member are composed of 2 major steps: 
-
-- check whether corrections have been implemented by Production team in full (and if so, update Production Spreadsheet accordingly) and 
-- if corrections have not been implemented (in full), send email to Production team asking to implemented missed corrections (and update Production sheet accordingly)
+Team member's primary task is to make sure that all corrections for the article have been implemented correctly. If review of article incuded communication with author, then team member needs to check whether corrections related to that communication have been implemented as well. In case author has not replied by date of Implemented Corrections Check, then corrections cannot be considered as approved (even if all of them were implemented). Corrections can be approved only after corrections related to author communication have been implemented in full.
 
 1. Go to the "`Implemented Corrections Dashboard`_". There you can see all the articles for which corrections have been implemented. Use this Dashboard as a work list. Process PIIs one by one.
 
