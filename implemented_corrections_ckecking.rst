@@ -46,7 +46,6 @@ a. There was no communication with author
 .. _communication_but_not_replied_yet:
 
 b. There was communication with author and author have not replied yet.
-
 	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
 
 	What to do:
@@ -59,7 +58,6 @@ b. There was communication with author and author have not replied yet.
 .. _communication_and_reply:
 
 c. There was comminication with author and author has already replied.
-
 	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
 
 	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
@@ -69,7 +67,7 @@ c. There was comminication with author and author has already replied.
 
 .. _implemented_no_communication:
 
-*All corrections implemented, no communication with author**
+**All corrections implemented, no communication with author**
 
 - Go to Production Spreadsheet and update column "Date correx last reviewed" with the date when you checked the pii and put "Y" in column "Corrections approved? (Y or N)"
 
@@ -82,7 +80,7 @@ c. There was comminication with author and author has already replied.
 
 .. _implemented_and_replied:
 
-***All corrections implemented, author replied***
+**All corrections implemented, author replied**
 
 - Search for the email from PubMed team member to Production team containing corrections related to author's response.
 
