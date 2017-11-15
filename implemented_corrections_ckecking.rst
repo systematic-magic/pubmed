@@ -33,18 +33,15 @@ c. :ref:`there was comminication with author and author has already replied<comm
 
 .. _no_communication_with_author:
 
-| a. There was no communication with author
-|
-| How to find out: there is "N" in `Author response required?` column.
-|
-| ``What to do:``
-|
-| Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked 
-| for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether
-| all corrections related to the article have been implemented.
-| 
-| If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
-| If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
+a. There was no communication with author
+	How to find out: there is "N" in `Author response required?` column.
+
+	What to do:
+
+	Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether all corrections related to the article have been implemented.
+
+	If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
+	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_but_not_replied_yet:
 
