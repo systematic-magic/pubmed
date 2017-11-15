@@ -37,7 +37,7 @@ c. :ref:`there was comminication with author and author has already replied<comm
 |
 | How to find out: there is "N" in `Author response required?` column.
 |
-| What to do:
+| ``What to do:``
 |
 | Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked 
 | for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether
