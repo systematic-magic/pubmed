@@ -44,7 +44,7 @@ Take a look at the `Date correx last reviewed` column in Production Spreadsheet 
 If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
 If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
-.. _communication_but_not_replied_yet: "text"
+.. _communication_but_not_replied_yet:
 b. There was communication with author and author have not replied yet.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
