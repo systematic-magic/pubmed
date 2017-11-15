@@ -32,7 +32,7 @@ c. :ref:`there was comminication with author and author has already replied<comm
 
 .. _no_communication_with_author:
 a. There was no communication with author
-",",",",",",",",",",",",",",",",",",",","
+"""""""""""""""""""""""""""""""""""""""""
 
 How to find out: there is "N" in `Author response required?` column.
 
