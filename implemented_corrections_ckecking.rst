@@ -38,7 +38,7 @@ a. There was no communication with author
 
 	What to do:
 
-	Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether all corrections related to the article have been implemented.
+	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
 	If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
@@ -47,25 +47,25 @@ a. There was no communication with author
 
 b. There was communication with author and author have not replied yet.
 
-How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
+	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
 
-What to do:
+	What to do:
 
-Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether all corrections related to the article have been implemented.
+	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
-If all corrections have been implemented, then :ref:`go here<implemented_not_replied>`.
-If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
+	If all corrections have been implemented, then :ref:`go here<implemented_not_replied>`.
+	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_and_reply:
 
 c. There was comminication with author and author has already replied.
 
-How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
+	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
 
-Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether all corrections related to the article have been implemented.
+	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
-If all corrections have been implemented, then :ref:`go here<implemented_and_replied>`.
-If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
+	If all corrections have been implemented, then :ref:`go here<implemented_and_replied>`.
+	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _implemented_no_communication:
 
