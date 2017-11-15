@@ -25,20 +25,21 @@ The tasks of the team member are composed of 2 major steps:
 
 3. Copy PII from the dashbord and search it in the Production Mailbox for all emails containing pii number in the subject line. There can be emails to Production Team as well as to the author(s) of the article. 
 
-In general there can be 3 situations you would need to deal with: |br|
-a. :ref:`there was no communication with author<no_communication_with_author>` |br|
-b. :ref:`there was communication with author and author have not replied yet<communication_but_not_replied_yet>` |br|
+In general there can be 3 situations you would need to deal with:
+
+a. :ref:`there was no communication with author<no_communication_with_author>`
+b. :ref:`there was communication with author and author have not replied yet<communication_but_not_replied_yet>`
 c. :ref:`there was comminication with author and author has already replied<communication_and_reply>`
 
 
 .. _no_communication_with_author:
 
 a. There was no communication with author
-	How to find out: there is "N" in `Author response required?` column.
+	How to find out: there is "N" in "Author response required?" column.
 
 	What to do:
 
-	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
+	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
 	If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
@@ -46,11 +47,11 @@ a. There was no communication with author
 .. _communication_but_not_replied_yet:
 
 b. There was communication with author and author have not replied yet.
-	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
+	How to find out: there is "Y" in :title-reference:`Author response required?` column and "Response to auth correx forwarded to production" column is empty.
 
 	What to do:
 
-	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
+	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
 	If all corrections have been implemented, then :ref:`go here<implemented_not_replied>`.
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
@@ -58,7 +59,7 @@ b. There was communication with author and author have not replied yet.
 .. _communication_and_reply:
 
 c. There was comminication with author and author has already replied.
-	How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
+	How to find out: there is "Y" in "Author response required?" column and `Response to auth correx forwarded to production` column has a date.
 
 	Take a look at the "`Date correx last reviewed`" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
