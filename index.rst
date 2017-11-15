@@ -13,4 +13,5 @@ Contents
 
    Quota <quota_procedures>
    Overdue Authors <overdue_author_correspondence_procedure>
+   Implemented Corrections <implemented_corrections_ckecking>
 
