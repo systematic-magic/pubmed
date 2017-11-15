@@ -23,9 +23,10 @@ The tasks of the team member are composed of 2 major steps:
 
 2. Open the Production Mailbox (production@oncotarget.com)
 
-3. Copy PII from the dashbord and search it in the Production Mailbox for all emails containing pii number in the subject line. There can be emails to Production Team as well as to the author(s) of the article. 
+3. Copy PII from the dashbord and search Production Mailbox for all emails containing pii number in the subject line. 
+There can be emails to Production Team as well as to the author(s) of the article. 
 
-In general there can be 3 situations you would need to deal with:
+As far as authors are cocerned, there can be 3 situations you would need to deal with:
 
 a. :ref:`there was no communication with author<no_communication_with_author>`
 b. :ref:`there was communication with author and author have not replied yet<communication_but_not_replied_yet>`
@@ -41,7 +42,7 @@ a. There was no communication with author
 
 	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
-	If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
+	If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`. |br|
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_but_not_replied_yet:
@@ -53,7 +54,7 @@ b. There was communication with author and author have not replied yet.
 
 	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
-	If all corrections have been implemented, then :ref:`go here<implemented_not_replied>`.
+	If all corrections have been implemented, then :ref:`go here<implemented_not_replied>`. |br|
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_and_reply:
@@ -63,7 +64,7 @@ c. There was comminication with author and author has already replied.
 
 	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
-	If all corrections have been implemented, then :ref:`go here<implemented_and_replied>`.
+	If all corrections have been implemented, then :ref:`go here<implemented_and_replied>`. |br|
 	If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _implemented_no_communication:
