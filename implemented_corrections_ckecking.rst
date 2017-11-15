@@ -60,7 +60,7 @@ b. There was communication with author and author have not replied yet.
 .. _communication_and_reply:
 
 c. There was comminication with author and author has already replied.
-	How to find out: there is "Y" in "Author response required?" column and `Response to auth correx forwarded to production` column has a date.
+	How to find out: there is "Y" in "Author response required?" column and "Response to auth correx forwarded to production" column has a date.
 
 	Take a look at the "Date correx last reviewed" column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than "last reviewed" date. Otherwise check whether all corrections related to the article have been implemented.
 
@@ -78,7 +78,7 @@ c. There was comminication with author and author has already replied.
 **All corrections implemented, author has not replied yet**
 
 - Go to Production Spreadsheet and update column "Date correx last reviewed" with the date when you checked the pii.
-- There are 2 columns named `Corrections approved? (Y or N)`, put "N" in the empty column and add note "corrx approved, but awaiting auth. resp. + add current date" to the **rightmost** "Approval Notes" column . If both `Corrections approved? (Y or N)` contain values (i.e. "N") then just append **rightmost** `Approval Notes` column with "corrx approved, but awaiting auth. resp. + add current date"
+- There are 2 columns named "Corrections approved? (Y or N)", put "N" in the empty column and add note "corrx approved, but awaiting auth. resp. + add current date" to the **rightmost** "Approval Notes" column . If both "Corrections approved? (Y or N)" contain values (i.e. "N") then just append **rightmost** "Approval Notes" column with "corrx approved, but awaiting auth. resp. + add current date"
 
 .. _implemented_and_replied:
 
