@@ -33,16 +33,18 @@ c. :ref:`there was comminication with author and author has already replied<comm
 
 .. _no_communication_with_author:
 
-a. There was no communication with author
-
-How to find out: there is "N" in `Author response required?` column.
-
-What to do:
-
-Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether all corrections related to the article have been implemented.
-
-If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
-If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
+| a. There was no communication with author
+|
+| How to find out: there is "N" in `Author response required?` column.
+|
+| What to do:
+|
+| Take a look at the `Date correx last reviewed` column in Production Spreadsheet to find out whether article has been checked 
+| for implemented corrections before. If it was, check corrections wich are older than that date. Otherwise check all whether
+| all corrections related to the article have been implemented.
+| 
+| If all corrections have been implemented, then :ref:`go here<implemented_no_communication>`.
+| If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_but_not_replied_yet:
 
@@ -59,7 +61,7 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 
 .. _communication_and_reply:
 
-c. there was comminication with author and author has already replied.
+c. There was comminication with author and author has already replied.
 
 How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
 
@@ -70,13 +72,13 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 
 .. _implemented_no_communication:
 
-**All corrections implemented, no communication with author***
+*All corrections implemented, no communication with author**
 
 - Go to Production Spreadsheet and update column "Date correx last reviewed" with the date when you checked the pii and put "Y" in column "Corrections approved? (Y or N)"
 
 .. _implemented_not_replied:
 
-***All corrections implemented, author has not replied yet***
+**All corrections implemented, author has not replied yet**
 
 - Go to Production Spreadsheet and update column `Date correx last reviewed` with the date when you checked the pii.
 - There are 2 columns named `Corrections approved? (Y or N)`, put "N" in the empty column and add note "corrx approved, but awaiting auth. resp. + add current date" to the *rightmost* "Approval Notes" column . If both `Corrections approved? (Y or N)` contain values (i.e. "N") then just append *rightmost* `Approval Notes` column with "corrx approved, but awaiting auth. resp. + add current date"
@@ -95,7 +97,7 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
  
 .. _not_implemented:
 
-***Corrections not implemented***
+**Corrections not implemented**
 
 - Send reply to the Production team with the list of corrections which have not been implemented.
 - Go to Production Spreadsheet and update column `Date correx last reviewed` with the date when you checked the pii.
