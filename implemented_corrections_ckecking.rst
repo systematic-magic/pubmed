@@ -23,8 +23,7 @@ The tasks of the team member are composed of 2 major steps:
 
 2. Open the Production Mailbox (production@oncotarget.com)
 
-3. Copy PII from the dashbord and search Production Mailbox for all emails containing pii number in the subject line. 
-There can be emails to Production Team as well as to the author(s) of the article. 
+3. Copy PII from the dashbord and search Production Mailbox for all emails containing pii number in the subject line. There can be emails to Production Team as well as to the author(s) of the article. 
 
 As far as authors are cocerned, there can be 3 situations you would need to deal with:
 
