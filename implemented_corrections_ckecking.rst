@@ -32,6 +32,7 @@ c. :ref:`there was comminication with author and author has already replied<comm
 
 
 .. _no_communication_with_author:
+
 a. There was no communication with author
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -45,6 +46,7 @@ If all corrections have been implemented, then :ref:`go here<implemented_no_comm
 If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_but_not_replied_yet:
+
 b. There was communication with author and author have not replied yet.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -58,6 +60,7 @@ If all corrections have been implemented, then :ref:`go here<implemented_not_rep
 If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _communication_and_reply:
+
 c. there was comminication with author and author has already replied.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -69,17 +72,20 @@ If all corrections have been implemented, then :ref:`go here<implemented_and_rep
 If all or certain corrections have not been implemented, then :ref:`go here<not_implemented>`.
 
 .. _implemented_no_communication:
+
 **All corrections implemented, no communication with author***
 
 - Go to Production Spreadsheet and update column "Date correx last reviewed" with the date when you checked the pii and put "Y" in column "Corrections approved? (Y or N)"
 
 .. _implemented_not_replied:
+
 ***All corrections implemented, author has not replied yet***
 
 - Go to Production Spreadsheet and update column `Date correx last reviewed` with the date when you checked the pii.
 - There are 2 columns named `Corrections approved? (Y or N)`, put "N" in the empty column and add note "corrx approved, but awaiting auth. resp. + add current date" to the *rightmost* "Approval Notes" column . If both `Corrections approved? (Y or N)` contain values (i.e. "N") then just append *rightmost* `Approval Notes` column with "corrx approved, but awaiting auth. resp. + add current date"
 
 .. _implemented_and_replied:
+
 ***All corrections implemented, author replied***
 
 - Search for the email from PubMed team member to Production team containing corrections related to author's response.
@@ -91,6 +97,7 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 - If implemented go to `All corrections implemented, no communication with author`, otherwise go to "Corrections not implemented".
  
 .. _not_implemented:
+
 ***Corrections not implemented***
 
 - Send reply to the Production team with the list of corrections which have not been implemented.
