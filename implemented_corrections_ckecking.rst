@@ -34,7 +34,6 @@ c. :ref:`there was comminication with author and author has already replied<comm
 .. _no_communication_with_author:
 
 a. There was no communication with author
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "N" in `Author response required?` column.
 
@@ -48,7 +47,6 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 .. _communication_but_not_replied_yet:
 
 b. There was communication with author and author have not replied yet.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column is empty.
 
@@ -62,7 +60,6 @@ If all or certain corrections have not been implemented, then :ref:`go here<not_
 .. _communication_and_reply:
 
 c. there was comminication with author and author has already replied.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 How to find out: there is "Y" in `Author response required?` column and `Response to auth correx forwarded to production` column has a date.
 
